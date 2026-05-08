@@ -7,9 +7,11 @@ Computer Science Engineering Student — Java • Python • React JS • HTML/C
 🔗 Portfolio/LinkedIn: https://www.linkedin.com/in/vamshi-ballem-5a243631b?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 🔗Tech
+
 Java, Python, React JS, HTML, CSS, JavaScript, SQL, Git, Basic IoT, REST API Basics
 
 Projects (Pinned Below)
+
 Anti-Sleep Glasses for Drivers — IoT • Arduino Nano • IR Sensor • Alert System
 AI Enhanced Website Building Platform — NLP • Template Recommendation • Website Builder
 Web Development Practice Projects — React JS • HTML/CSS • JavaScript
